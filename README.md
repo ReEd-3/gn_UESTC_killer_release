@@ -2,9 +2,6 @@
 
 本仓库**仅用于发布「晚安成电killer」的安装包（APK）**，不包含源码。
 
-- 🔧 应用源码：[ReEd-3/gn_UESTC_killer](https://github.com/ReEd-3/gn_UESTC_killer)
-- 📖 应用的详细介绍与常见问题：请查看源码仓库的 README
-
 ## 📲 下载安装
 
 1. 点击进入 [最新版本 Releases](https://github.com/ReEd-3/gn_UESTC_killer_release/releases/latest) 页面，在「Assets」中下载 APK 文件
